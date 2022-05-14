@@ -1,0 +1,56 @@
+#p1 {
+    border: 2px solid red;
+    display: inline-block;
+    padding: 30px;
+    color: blue;
+    background-color: rgb(11, 10, 9);
+}
+
+#p2 {
+    border: 2px solid yellow;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    padding: 50px;
+    color: gold;
+    background-color: rgb(148, 125, 103);
+
+}
+
+#oneclick {
+    border: 2px solid black;
+    display: inline;
+    position: relative;
+    top: 10px;
+    padding: 20px;
+    margin: 40px;
+    background-color: blue;
+    color: chartreuse;
+}
+
+#doubleclick {
+    border: 2px solid black;
+    display: inline;
+    position: relative;
+    top: 10px;
+    padding: 20px;
+    margin: 50px;
+    color: brown;
+    background-color: blanchedalmond;
+
+}
+
+#para {
+    position: relative;
+    top: 40px;
+}
+
+.toggle{
+    text-decoration: underline;
+}
+
+#div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+}
